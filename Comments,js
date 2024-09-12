@@ -1,0 +1,18 @@
+/*
+nstalamos o nodejs, npm (node Package Manager)
+Para iniciar a aplicação vamos usar o npm index.js
+
+Instalamos o nodemon
+
+Criamos 3 arquivos,
+Configuração > 
+Indaex > Apresentação do site
+CustomExpress > Arquivo de configuração do aplicativo
+
+    //app.get /nome da pagina  
+    /* 
+    req envia as requisições para o servidor
+    res responsta do servidor para os clientes
+    */
+
+
